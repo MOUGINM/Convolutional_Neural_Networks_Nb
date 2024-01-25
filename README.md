@@ -25,7 +25,6 @@ This project develops a Convolutional Neural Network (CNN) model to classify dig
 - Python 3.x
 - TensorFlow
 - Streamlit
-- Other dependencies listed in `requirements.txt`
 
 ### Installation
 1. Clone the repository.
